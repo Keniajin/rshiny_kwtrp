@@ -6,7 +6,7 @@ output: html_document
 # About Applied Epi
 
  -  Field epidemiologists with R expertise
- -  Home of The Epidemiologist R Handbook
+ -  Writer of The Epidemiologist R Handbook
  -  Practical R training courses
  -  Applied Epi Community 
  -  R Help Desk 
