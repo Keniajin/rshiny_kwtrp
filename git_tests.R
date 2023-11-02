@@ -1,0 +1,5 @@
+library(usethis)
+pr_init()
+usethis::pr_pull()
+usethis::git_sitrep()
+pr_push()
